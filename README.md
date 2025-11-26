@@ -1,1 +1,1 @@
-# SIT725_BuyMusicAPIProject
+SIT725 - Spotify Playlist Converter Group Project
